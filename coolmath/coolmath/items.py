@@ -10,5 +10,6 @@ class CoolmathItem(Item):
     # name = Field()
 	link = Field()
 	title = Field()
+	text = Field()
 
 
